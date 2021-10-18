@@ -1,0 +1,74 @@
+
+/*-------- login-form-1 start------------*/
+.login{
+    padding: 50px 30px;
+}
+.login-box-2{
+    width: 360px;
+    height: 460px;
+    background: #000;
+    color: #fff;
+    box-sizing: border-box;
+    padding: 120px 20px;
+}
+.login-box-2 img{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    top: 0px;
+    position: absolute;
+    left: calc(50% - 136px);
+}
+.login-box-2 h1{
+    margin: 0;
+    padding: 0 0 20px;
+    text-align: center;
+    font-size: 22px;
+}
+.login-box-2 p{
+    margin: 0;
+    padding: 0;
+    font-weight: bold;
+}
+.login-box-2 input{
+    width: 100%;
+    margin-bottom: 20px;
+}
+.login-box-2 input[type="text"], input[type="password"]{
+    border: none;
+    background: transparent;
+    height: 40px;
+    border-bottom: 1px solid #fff;
+    outline: none;
+    color: #fff;
+}
+.login-box-2 input[type="submit"]{
+    border: none;
+    outline: none;
+    height: 40px;
+    color: #fff;
+    font-size: 18px;
+    background: #fb2525;
+    border-radius: 20px;
+}
+.login-box-2 input[type="submit"]:hover{
+    cursor: pointer;
+    background: #ffc107;
+    color: #000;
+}
+.login-box-2 a{
+    text-decoration: none;
+    font-size: 14px;
+    line-height: 20px;
+    color: darkgrey;
+}
+.login-box-2 a:hover{
+    color: indianred;
+}
+
+/*-------- login-form-1 end------------*/
+
+
+
+
+
